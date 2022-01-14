@@ -83,6 +83,19 @@
               </div>
             </div>
           </div>
+          <div class="card-wrap">
+            <div class="card" data-card="Code">
+              <div class="card-content z-index">
+                <img src="./img/code-icon.png" class="icon" alt="" />
+                <h3 class="title-sm">Blockchain Developer</h3>
+                <p class="text">
+                  Blockchain developing is easier with python V, with basic skills of php,python,solidity, javascript and many backend
+                  programing language your Decentralize web apps is up and ready.
+                </p>
+                <a href="#" class="btn small">Read more</a>
+              </div>
+            </div>
+          </div>
 
           <div class="card-wrap">
             <img src="./img/shapes/points3.png" class="points points2 points-sq" alt="" />
